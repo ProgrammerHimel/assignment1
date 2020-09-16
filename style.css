@@ -1,0 +1,126 @@
+body{
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+
+#heading{
+    font-size: 40px;
+}
+span{
+    font-size: 50px;
+    color: #ec4c7a;
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    color: dimgray;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 130px;
+    padding-left: 30px;
+    margin-top: 170px;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("img/header-bg.png");
+}
+section{
+    height: 500px;
+    padding-bottom: 500px;
+}
+.bio-area{
+    background-image: url("img/biography-bg.png");
+}
+.himel-class{
+    margin-right: 100px;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #ec4f92, #ed4b72);
+    padding: 10px 35px;
+    color: white;
+    border-radius: 7px;
+}
+.bioclass{
+    font-size: 38px;
+}
+#bio-id{
+    padding-top: 150px;
+    
+}
+#latest-work{
+    font-size: 37px;
+    text-align: center;
+    padding-top: 50px;
+}
+.third-section{
+    background-image: url("img/latest-work-bg.png");
+    height: 250px;
+}
+.img-one{
+    margin-left: 130px;
+    float: left;
+}
+.img-two{
+    margin-left: 130px;
+    float: left;
+}
+.img-three{
+    margin-left: 130px;
+    float: left;
+}
+#c-say{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+#last-sec{
+    height: 500px;
+    padding-bottom: 350px;
+    background-image: url("img/footer-bg.png");
+}
+#third-sec{
+    height: 300px;
+    padding-bottom: 300px;
+}
+#bruce{
+    font-weight: 700;
+    text-align: center;
+}
+#ceo{
+    font-size: 12px;
+    text-align: center;
+}
+.quote{
+    font-size: 15px;
+    text-align: center;
+    font-weight: 600;
+}
+#box-button{
+    height: 150px;
+    width: 800px;
+    background-image: linear-gradient(45deg, #ec4f92, #ed4b72);
+    margin-left: 550px;
+    border-radius: 15px;
+    
+}
+#small-text{
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+
+}
+#big-text{
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    padding-bottom: 40px;
+}
+#footer-id{
+    text-align: center;
+    font-size: 15px;
+}
